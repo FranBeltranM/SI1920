@@ -3,30 +3,33 @@
 //::Tx-nn NIF texto::¿
 
 // TEMA 2 (4)
-::T2-01 827Q:: Un agente:
+
+$CATEGORY: $course$/top/Tema 02
+
+::T2-01 7827:: Un agente:
 {~Percibe sentimientos, actúa en el entorno, elimina percepciones erróneas.
  =Percibe el entorno, actúa en el entorno, asigna percepciones a acciones.
  ~Percibe el entorno, actúa según leyes, asigna percepciones a datos.
  ~Ninguna de las anteriores es correcta.
 }
 
-::T2-02 827Q:: Referente a los sensores:
-{=No son confiables debido a que generan incertudimbre, y pueden producir errores.
+::T2-02 7827:: Referente a los sensores:
+{=No son confiables debido a que generan incertidumbre, y pueden producir errores.
  ~Son confiables ya que en la actualidad su tasa de error es mínima.
  ~Algunos son confiables y otros no, dependerá del contexto.
  ~Ninguna de las anteriores es correcta.
 }
 
-::T2-03 827Q:: Relacione los siguientes sentidos con los sensores necesarios para captarlo:
+::T2-03 7827:: Relacione los siguientes sentidos con los sensores necesarios para captarlo:
 {=Gradiente de presión -> Arreglo de presión
  =Propiocepción -> Encoder
  =Percepción del equilirio -> Acelerómetro
  =Magnetocepción -> Magnetómetro
  =Electrocepción -> Sensor de voltaje
- =Eco localización -> Sonar
+ =Ecolocalización -> Sonar
 }
 
-::T2-04 827Q:: ¿Cuáles son los 4 tipos de agentes?
+::T2-04 7827:: ¿Cuáles son los 4 tipos de agentes?
 {~Agentes Reactivos, Radiactivos basados en modelos, Basados en objetivos, Basados en utilidad.
  ~Agentes Reactivos, Reactivos basados en modelos, Basados en principios, Basados en utilidad.
  =Agentes Reactivos, Reactivos basados en modelos, Basados en objetivos, Basados en utilidad.
@@ -34,28 +37,31 @@
 }
 
 // TEMA 3(4)
-::T3-01 827Q:: ¿Qué "niveles" de IA podemos observar en Videojuegos?
+
+$CATEGORY: $course$/top/Tema 03
+
+::T3-01 7827:: ¿Qué "niveles" de IA podemos observar en Videojuegos?
 {~Básico, Medio, Hardcore.
  ~Fácil, Medio, Difícil.
- =Básico, Avanzado, En el futuro.
+ =Básico, Avanzado, En el futuro (Temas en investigación).
  ~Básico, Avanzado, Hardcore.
 }
 
-::T3-02 827Q:: ¿Qué técnicas de decisión de IA básica se usan comúnmente en la gran mayoría de los Videojuegos?
+::T3-02 7827:: ¿Qué técnicas de decisión de IA básica se usan comúnmente en la gran mayoría de los Videojuegos?
 {~Pathfinding básico, árboles de decisión, árboles de comportamiento.
  ~Pathfinding básico, planificación, máquinas de estado.
  ~Árboles de decisión, árboles de comportamiento, máquinas de estado.
  =Pathfinding básico, árboles de decisión, máquinas de estado.
 }
 
-::T3-03 827Q:: Relacione las siguientes características de las distintas técnicas IA:
+::T3-03 7827:: Relacione las siguientes características de las distintas técnicas IA:
 {=Técnica de IA más básica -> Árboles de decisión
  =Rápida ejecución -> Árboles de decisión
  =Fácil de codificar (Al principio) -> Máquinas de estados
  =Muy difícil de mantener -> Máquina de estados
 }
 
-::T3-04 827Q:: En un árbol de comportamiento, ¿qué acciones se realizan?
+::T3-04 7827:: En un árbol de comportamiento, ¿qué acciones se realizan?
 {~Sentir, calcular, cancelar.
  =Percibir, pensar, actuar.
  ~Percibir, esperar, cancelar.
@@ -63,28 +69,31 @@
 }
 
 // TEMA 4 (4)
-::T4-01 827Q:: ¿Qué tipos de planificación existen?
-{= Strips, planificación de orden parcial, Descomposición Jerárquica.
- ~ Strips, POP, HTS.
- ~ Strips, POT, HTN.
- ~ Strips, planificación de orden parcial, HTS.
+
+$CATEGORY: $course$/top/Tema 04
+
+::T4-01 7827:: ¿Qué tipos de planificación existen?
+{=Strips, planificación de orden parcial, Descomposición Jerárquica.
+ ~Strips, POP, HTS.
+ ~Strips, POT, HTN.
+ ~Strips, planificación de orden parcial, HTS.
 }
 
-::T4-02 827Q:: ¿Qué entornos de aplicación tiene la Planificación Clásica (no aparecen todos)?
+::T4-02 7827:: ¿Qué entornos de aplicación tiene la Planificación Clásica (no aparecen todos)?
 {~Observables, infinitos, estáticos.
  ~Deterministas, estáticos, infinitos.
  =Estáticos, discretos, finitos.
  ~Observables, finitos, no deterministas.
 }
 
-::T4-03 827Q:: Clasifique según el espacio de problemas:
+::T4-03 7827:: Clasifique según el espacio de problemas:
 {=STRIPS -> Estados
  =NOAH -> Planes
  =PRODIGY -> Estados
  =TWEAK -> Planes
 }
 
-::T4-04 827Q:: ¿Indique cual de las siguientes opciones es la correcta sobre STRIPS?
+::T4-04 7827:: ¿Indique cual de las siguientes opciones es la correcta sobre STRIPS?
 {=Utiliza gran parte de los elementos del sistema GPS, es un lenguaje y un algoritmo.
  ~Utiliza gran parte de los elementos del sistema GPS, es un algoritmo.
  ~Realiza una exploración en anchura, es un lenguaje y un algoritmo.
@@ -92,35 +101,38 @@
 }
 
 // TEMA 5 (5)
-::T5-01 827Q:: ¿Qué clasificación se sigue dependiendo del tipo de problema?
+
+$CATEGORY: $course$/top/Tema 05
+
+::T5-01 7827:: ¿Qué clasificación se sigue dependiendo del tipo de problema?
 {~Según el tipo de restricciones, según los tipos de dominos, según las restricciones binarias.
  ~Según el tipo de dominios y según el número de variables implicadas en las restricciones.
  =Según el tipo de restricciones, el tipo de dominios y según el número de variables implicadas en las restricciones.
  ~Según el tipo de restricciones, el tipo de dominos y según el número de variables implicadas en las restricciones.
 }
 
-::T5-02 827Q:: Un CSP mixto consta de variables...
+::T5-02 7827:: Un CSP mixto consta de variables...
 {=Continuas y discretas.
  ~Binarias y n-arias.
  ~Discretas y binarias.
  ~Continuas y binarias.
 }
 
-::T5-03 827Q:: Algunos tipos de restricciones son...
+::T5-03 7827:: Algunos tipos de restricciones son...
 {~Binarias, conjuntivas, discretas.
  ~Hard, conjuntivas, discretas.
  ~Discretas, continuas, conjuntivas.
  =Discretas, continuas, Difusas(fuzzy).
 }
 
-::T5-04 827Q:: De los siguientes grupos de algoritmos, ¿cuales son de búsqueda?
+::T5-04 7827:: De los siguientes grupos de algoritmos, ¿cuales son de búsqueda?
 {=Espacio de estados, genera y comprueba, backtracking simple.
  ~Espacio de reglas, backtracking simple, backtracking con chequeo previo.
  ~Espacio de estados, genera y comprueba, backtracking con chequeo final.
  ~Backtracking simple, backtracking con chequeo previo, genera y elimina.
 }
 
-::T5-05 827Q:: Relacione los siguientes algoritmos con su tipo de técnica:
+::T5-05 7827:: Relacione los siguientes algoritmos con su tipo de técnica:
 {=Ordenación de variables -> Técnicas heurísticas de preproceso.
  =Técnicas de consistencia -> Algoritmos híbridos.
  =Ordenación de valores -> Técnicas heurísticas de preproceso.
@@ -128,49 +140,52 @@
 }
 
 // TEMA 6 (7)
-::T6-01 827Q:: ¿De qué depende del grado de coordinación de un MAS?
+
+$CATEGORY: $course$/top/Tema 06
+
+::T6-01 7827:: ¿De qué depende del grado de coordinación de un MAS?
 {=La necesidad de reducir/optimizar el uso de recursos.
  ~La necesidad de eliminar algunas condiciones del sistema.
  ~La independencia de unos agentes sobre otros para realizar la tarea.
  ~La necesidad de producir fallos del sistema.
 }
 
-::T6-02 827Q:: ¿Qué desventajas tiene la Coordinación Centralizada?
+::T6-02 7827:: ¿Qué desventajas tiene la Coordinación Centralizada?
 {~ El agente coordinador nunca llega a ser una pieza crítica del sistema.
  ~ En el peor caso, si el agente colapsa, el sistema no colapsaría.
  ~ Los otros agentes mantienen su nivel de autonomía.
  = Los otros agentes tienen una severa pérdida de autonomía.
 }
 
-::T6-03 827Q:: Relacione las siguientes opciones:
+::T6-03 7827:: Relacione las siguientes opciones:
 {=Los agentes se comunican objetivos -> Coordinación Explícita.
  =Sin comunicación -> Coordinación Implícita.
  =Los agentes se transmiten estados del mundo -> Coordinación Explícita.
  =El entorno actúa como mecanismo de interacción -> Coordinación Implícita.
 }
 
-::T6-04 827Q:: ¿Qué rasgos presenta la Coordinación Explícita?
+::T6-04 7827:: ¿Qué rasgos presenta la Coordinación Explícita?
 {=Resolución cooperativa, Teamwork, negociación.
  ~Afterwork, teamwork, planificación.
  ~Intenciones individuales, planificicación, negociación.
  ~Negociación, planificación, resolución disjunta.
 }
 
-::T6-05 827Q:: En la Coordinación con mensajería, los agentes se comunican con otros para compartir:
+::T6-05 7827:: En la Coordinación con mensajería, los agentes se comunican con otros para compartir:
 {~Tareas y aficiones.
  ~Asignaciones y dudas.
  ~Motivaciones y su estado mental.
  =Tareas, asignaciones, entre otras.
 }
 
-::T6-06 827Q:: ¿Qué 4 pasos fundamentales existen en la cooperación?
+::T6-06 7827:: ¿Qué 4 pasos fundamentales existen en la cooperación?
 {~Identificación del problema, formación de las reglas, lista de decisiones, estado final.
  =Identificación del problema, formación del equipo, formación del plan, acción de equipo.
  ~Identificación del equipo, identificación del problema, identificación de las soluciones, estado final.
  ~Identificación del equipo, identificación del problema, toma de decisiones, estado final.
 }
 
-::T6-07 827Q:: Relacione las siguientes características con su categoría:
+::T6-07 7827:: Relacione las siguientes características con su categoría:
 {=Realista y temporalmente estable -> Intenciones Conjuntas
  =Detectar interacciones entre subplanes y monitorizar el progreso y el plan del equipo -> Teamwork
  =Centrada en planificar la próxima acción, no es "trivial" su generalización al caso de multiagentes -> Planificación
@@ -178,21 +193,24 @@
 }
 
 // TEMA 7 (6)
-::T7-01 827Q:: Según la siguiente línea de código, ¿qué produciría?: fput z [a b c d e f g h i j k ]
+
+$CATEGORY: $course$/top/Tema 07
+
+::T7-01 7827:: Según la siguiente línea de código, ¿qué produciría?: fput z [a b c d e f g h i j k ]
 {=Introduce el elemento al principio de la lista.
  ~Introduce el elemento al final de la lista.
  ~No haría nada.
  ~Ninguna de las anteriores es correcta.
 }
 
-::T7-02 827Q:: ¿Cuál de las siguientes opciones son propiedades de las tortugas?
+::T7-02 7827:: ¿Cuál de las siguientes opciones son propiedades de las tortugas?
 {~size, type, colors.
  ~label, colors, shape.
  ~label, size, colors.
  =who, color, heading.
 }
 
-::T7-03 827Q:: Relacione las siguientes funciones:
+::T7-03 7827:: Relacione las siguientes funciones:
 {=patch-set -> patches
  =in-radios -> patches
  =patch-here -> tortugas
@@ -200,21 +218,21 @@
  =in-cone -> tortugas
 }
 
-::T7-04 827Q:: ¿Qué hace la instrucción SELF?
+::T7-04 7827:: ¿Qué hace la instrucción SELF?
 {=Referencia al propio agente.
  ~Referencia al conjunto de tortugas.
  ~Referencia al conjunto de patches.
  ~Ninguna de las anteriores es correcta.
 }
 
-::T7-05 827Q:: ¿Qué hace la instrucción face myself?
+::T7-05 7827:: ¿Qué hace la instrucción face myself?
 {~Indica donde está el agente.
  ~Indica donde estaría el agente en el siguiente tick.
  =Orienta el heading hacia el agente.
  ~Ninguna de las anteriores es correcta.
 }
 
-::T7-06 827Q:: ¿Qué genera la instrucción hatch?
+::T7-06 7827:: ¿Qué genera la instrucción hatch?
 {~Una tortuga crea otras tortugas (de la clase que se le indique).
  =Una tortuga crea otras tortugas (de la misma clase).
  ~Una tortuga crea otras tortugas (de la clase por defecto).
