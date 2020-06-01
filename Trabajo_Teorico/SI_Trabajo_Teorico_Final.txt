@@ -10,14 +10,14 @@ $CATEGORY: $course$/top/Tema 02
 {~Percibe sentimientos, actúa en el entorno, elimina percepciones erróneas.
  =Percibe el entorno, actúa en el entorno, asigna percepciones a acciones.
  ~Percibe el entorno, actúa según leyes, asigna percepciones a datos.
- ~Ninguna de las anteriores es correcta.
+ ~Ninguna es correcta.
 }
 
 ::T2-02 7827:: Referente a los sensores:
 {=No son confiables debido a que generan incertidumbre, y pueden producir errores.
  ~Son confiables ya que en la actualidad su tasa de error es mínima.
  ~Algunos son confiables y otros no, dependerá del contexto.
- ~Ninguna de las anteriores es correcta.
+ ~Ninguna es correcta.
 }
 
 ::T2-03 7827:: Relacione los siguientes sentidos con los sensores necesarios para captarlo:
@@ -200,7 +200,7 @@ $CATEGORY: $course$/top/Tema 07
 {=Introduce el elemento al principio de la lista.
  ~Introduce el elemento al final de la lista.
  ~No haría nada.
- ~Ninguna de las anteriores es correcta.
+ ~Ninguna es correcta.
 }
 
 ::T7-02 7827:: ¿Cuál de las siguientes opciones son propiedades de las tortugas?
@@ -222,19 +222,19 @@ $CATEGORY: $course$/top/Tema 07
 {=Referencia al propio agente.
  ~Referencia al conjunto de tortugas.
  ~Referencia al conjunto de patches.
- ~Ninguna de las anteriores es correcta.
+ ~Ninguna es correcta.
 }
 
 ::T7-05 7827:: ¿Qué hace la instrucción face myself?
 {~Indica donde está el agente.
  ~Indica donde estaría el agente en el siguiente tick.
  =Orienta el heading hacia el agente.
- ~Ninguna de las anteriores es correcta.
+ ~Ninguna es correcta.
 }
 
 ::T7-06 7827:: ¿Qué genera la instrucción hatch?
 {~Una tortuga crea otras tortugas (de la clase que se le indique).
  =Una tortuga crea otras tortugas (de la misma clase).
  ~Una tortuga crea otras tortugas (de la clase por defecto).
- ~Ninguna de las anteriores es correcta.
+ ~Ninguna es correcta.
 }
